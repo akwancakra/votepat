@@ -1,5 +1,7 @@
 # Votepat 🎉
 
+![Votepat Cover](/assets/images/screenshots/cover_github.jpg)
+
 Votepat is an innovative application designed to simplify the digital voting process. With Votepat, users can easily create, manage, and participate in voting efficiently.
 
 ## Key Features ✨
@@ -45,15 +47,21 @@ For further questions, please contact us at [akwancakra20@gmail.com](mailto:akwa
 
 ### Login Page
 
-<img src="/assets/images/screenshots/screenshot_login.jpg" alt="Login Page" style="max-width: 300px; height: auto;">
+![Votepat Login Page](/assets/images/screenshots/login.jpg)
+
+<!-- <img src="/assets/images/screenshots/login.jpg" alt="Login Page" style="max-width: 300px; height: auto;"> -->
 
 ### Dashboard/Home Page
 
-<img src="/assets/images/screenshots/screenshot_home_1.jpg" alt="Dashboard/Home Page" style="max-width: 300px; height: auto;">
+![Votepat Home Page](/assets/images/screenshots/home.jpg)
+
+<!-- <img src="/assets/images/screenshots/home.jpg" alt="Dashboard/Home Page" style="max-width: 300px; height: auto;"> -->
 
 ### Dashboard/Home Page Dark
 
-<img src="/assets/images/screenshots/screenshot_home_2.jpg" alt="Dashboard/Home Page Dark" style="max-width: 300px; height: auto;">
+![Votepat Home Dark Page](/assets/images/screenshots/home_dark.jpg)
+
+<!-- <img src="/assets/images/screenshots/home_dark.jpg" alt="Dashboard/Home Page Dark" style="max-width: 300px; height: auto;"> -->
 
 ---
 
