@@ -47,21 +47,21 @@ For further questions, please contact us at [akwancakra20@gmail.com](mailto:akwa
 
 ### Login Page
 
-![Votepat Login Page](/assets/images/screenshots/login.jpg)
+![Votepat Login Page](/assets/images/screenshots/login.png)
 
-<!-- <img src="/assets/images/screenshots/login.jpg" alt="Login Page" style="max-width: 300px; height: auto;"> -->
+<!-- <img src="/assets/images/screenshots/login.png" alt="Login Page" style="max-width: 300px; height: auto;"> -->
 
 ### Dashboard/Home Page
 
-![Votepat Home Page](/assets/images/screenshots/home.jpg)
+![Votepat Home Page](/assets/images/screenshots/home.png)
 
-<!-- <img src="/assets/images/screenshots/home.jpg" alt="Dashboard/Home Page" style="max-width: 300px; height: auto;"> -->
+<!-- <img src="/assets/images/screenshots/home.png" alt="Dashboard/Home Page" style="max-width: 300px; height: auto;"> -->
 
 ### Dashboard/Home Page Dark
 
-![Votepat Home Dark Page](/assets/images/screenshots/home_dark.jpg)
+![Votepat Home Dark Page](/assets/images/screenshots/home_dark.png)
 
-<!-- <img src="/assets/images/screenshots/home_dark.jpg" alt="Dashboard/Home Page Dark" style="max-width: 300px; height: auto;"> -->
+<!-- <img src="/assets/images/screenshots/home_dark.png" alt="Dashboard/Home Page Dark" style="max-width: 300px; height: auto;"> -->
 
 ---
 
