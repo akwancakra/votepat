@@ -62,7 +62,3 @@ For further questions, please contact us at [akwancakra20@gmail.com](mailto:akwa
 ![Votepat Home Dark Page](/assets/images/screenshots/home_dark.png)
 
 <!-- <img src="/assets/images/screenshots/home_dark.png" alt="Dashboard/Home Page Dark" style="max-width: 300px; height: auto;"> -->
-
----
-
-Thank you for using Votepat! We hope this application helps simplify your voting process.
